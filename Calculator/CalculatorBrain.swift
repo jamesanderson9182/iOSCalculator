@@ -65,7 +65,7 @@ class CalculatorBrain
         var binaryFunction: (Double, Double) -> Double
         var firstOperand: Double
         
-    }
+    }	
     
     // Only having a get means that this is read only :)
     var result: Double {
